@@ -1,13 +1,17 @@
-# Ops-demo
+# Ops-demo - Git Operations Practice
 
-A demonstration repository for learning Git operations and GitHub workflows.
+## 🚀 Project Overview
+A hands-on repository for mastering Git and GitHub workflows.
 
-## Purpose
-This repository serves as a hands-on practice environment for:
-- Git branching strategies
-- Pull request workflow
-- Merge conflict resolution
-- GitHub issue tracking
+## 📋 Prerequisites
+- Git installed (version 2.x or higher)
+- GitHub account
+- Basic command line knowledge
 
-## Getting Started
-Clone this repository to practice Git operations locally.
+## 🛠️ Commands Used
+- git clone, add, commit, push
+- git branch, checkout, merge
+- git status, log, diff
+
+## 📝 License
+MIT License
